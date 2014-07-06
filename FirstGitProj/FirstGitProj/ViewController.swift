@@ -12,6 +12,7 @@ class ViewController: UIViewController {
                             
     override func viewDidLoad() {
         super.viewDidLoad()
+        let b = 123
         // Do any additional setup after loading the view, typically from a nib.
     }
 
